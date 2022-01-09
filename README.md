@@ -53,3 +53,8 @@ During this covid-19 pandemic, high temperature may be sign of covid. So here we
 Otherwise, if passenger’s temperature is detected normal i.e. less than or equal to 37.5℃, then arduino will send signal to open the door via motor as shown in Figure , DC motor rotates with 5555 rpm.
 
 <img src="image/open.png" width="600" >
+
+### Features
+- One of the most commonly used choices is to use automatic door temperature detection system to meet this challenge. In this case, you do not need to hire extra staffs for temperature detection system regularly.
+- Another important feature of this COVID-19 Human Detector System is no one can enter without go through this temperature checking process.
+- Now a days open door via palm touch can also become a factor to spread COVID-19, so people opening the door with the elbow for protection infection COVID-19. This is a great benifit of this project that it replaces this problem with automatic touchless door via sensors.
